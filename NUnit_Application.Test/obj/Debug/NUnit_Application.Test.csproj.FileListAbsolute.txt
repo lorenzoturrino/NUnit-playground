@@ -1,0 +1,8 @@
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.Test.dll
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.Test.pdb
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\bin\Debug\nunit.framework.dll
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.exe
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\obj\Debug\NUnit_Application.Test.csprojResolveAssemblyReference.cache
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\obj\Debug\NUnit_Application.Test.dll
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\obj\Debug\NUnit_Application.Test.pdb
+C:\Users\neuro\OneDrive\prowin\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.pdb

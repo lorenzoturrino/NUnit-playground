@@ -38,5 +38,15 @@ namespace NUnit_Application
             return x;
 
         }
+
+        public int Expo(int a, int b)
+        {
+            return (int) Math.Pow((double) a, (double) b);
+        }
+
+        public int Multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
